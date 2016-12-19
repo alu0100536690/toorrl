@@ -1,0 +1,21 @@
+{
+  "id": 72407749,
+  "url": "https://api.github.com/authorizations/72407749",
+  "app": {
+    "name": "alu0100536690",
+    "url": "https://developer.github.com/v3/oauth_authorizations/",
+    "client_id": "00000000000000000000"
+  },
+  "token": "287a084cfb37fd81255537739f4123849a9b3dc9",
+  "hashed_token": "21bde872ad2b0903fb7af18c3474e041fb3122f4b213b2bd959f16d00b42744f",
+  "token_last_eight": "9a9b3dc9",
+  "note": "alu0100536690",
+  "note_url": null,
+  "created_at": "2016-12-19T00:50:38Z",
+  "updated_at": "2016-12-19T00:50:38Z",
+  "scopes": [
+    "repo",
+    "user"
+  ],
+  "fingerprint": null
+}
